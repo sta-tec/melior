@@ -1,0 +1,35 @@
+/* General */
+*,
+*:before,
+*:after {
+  box-sizing: border-box !important;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: beige;
+  min-height: 100vh;
+  color: #333333;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.container {
+  margin: 0 auto;
+  max-width: 768px;
+}
+
+/* form elements */
+
+.el-form-item__label {
+  width: 120px;
+  text-align-last: left;
+}
+.el-form-item__content {
+  flex: 1;
+}
