@@ -1,7 +1,5 @@
 # Melior
 
-test project
-
 Steps to start:
 
 ```
