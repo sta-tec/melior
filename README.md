@@ -3,8 +3,8 @@
 Steps to start:
 
 ```
-/* root directory */
 git clone git@github.com:sta-tec/test__bookstore.git
+cd test__bookstore
 npm install
 npm run server
 npm run app
